@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="20.319">
+    <testcase classname="Customer journey scenarios" name="Register a new user then complete sale" time="20.168">
+        <system-out>
+            <![CDATA[Given I open advantage shopping site........................................passed
+And I verify home page......................................................passed
+Then I navigate to create account page......................................passed
+And I register new user.....................................................passed
+Then I add "headPhones" to cart.............................................passed
+And I complete purchase.....................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

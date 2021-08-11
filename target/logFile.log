@@ -1,0 +1,128 @@
+2021-08-11 09:42:08,617 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 09:42:08,620 INFO c.a.s.AppTestBase [main] ** Starting New TestCase -> Register a new user then complete sale  **
+2021-08-11 09:42:08,621 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 09:42:17,693 INFO c.a.p.RegistrationPage [main] userName : Herschel68
+2021-08-11 09:42:17,694 INFO c.a.p.RegistrationPage [main] password : WAFIfc\<Aa1£
+2021-08-11 09:42:21,813 INFO c.a.p.RegistrationPage [main] Beats Studio 2 Over-Ear Matte Black Headphones
+2021-08-11 09:42:21,828 INFO c.a.p.RegistrationPage [main] Bose SoundLink Around-ear Wireless Headphones II
+2021-08-11 09:42:21,855 INFO c.a.p.RegistrationPage [main] HP H2310 In-ear Headset
+2021-08-11 09:42:21,878 INFO c.a.p.RegistrationPage [main] Logitech USB Headset H390
+2021-08-11 09:48:20,629 INFO c.a.s.AppTestBase [main] Failed scenario ----->> [@advantageRegression, @completeSale]
+2021-08-11 09:48:20,630 INFO c.a.s.AppTestBase [main] Browser failed on Chrome
+2021-08-11 09:48:20,631 INFO c.a.s.AppTestBase [main] Failed scenario ----->> FAILED
+2021-08-11 09:48:20,631 INFO c.a.s.AppTestBase [main] Browser failed on Chrome
+2021-08-11 09:56:58,482 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 09:56:58,487 INFO c.a.s.AppTestBase [main] ** Starting New TestCase -> Register a new user then complete sale  **
+2021-08-11 09:56:58,487 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 09:57:07,282 INFO c.a.p.RegistrationPage [main] userName : Carmina27
+2021-08-11 09:57:07,282 INFO c.a.p.RegistrationPage [main] password : 7(cKN6`]Aa1£
+2021-08-11 09:57:11,285 INFO c.a.p.RegistrationPage [main] Beats Studio 2 Over-Ear Matte Black Headphones
+2021-08-11 09:57:11,302 INFO c.a.p.RegistrationPage [main] Bose SoundLink Around-ear Wireless Headphones II
+2021-08-11 09:57:11,318 INFO c.a.p.RegistrationPage [main] HP H2310 In-ear Headset
+2021-08-11 09:57:11,335 INFO c.a.p.RegistrationPage [main] Logitech USB Headset H390
+2021-08-11 09:57:34,785 INFO c.a.s.AppTestBase [main] Failed scenario ----->> [@advantageRegression, @completeSale]
+2021-08-11 09:57:34,786 INFO c.a.s.AppTestBase [main] Browser failed on Chrome
+2021-08-11 09:57:34,786 INFO c.a.s.AppTestBase [main] Failed scenario ----->> FAILED
+2021-08-11 09:57:34,787 INFO c.a.s.AppTestBase [main] Browser failed on Chrome
+2021-08-11 09:59:29,816 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 09:59:29,820 INFO c.a.s.AppTestBase [main] ** Starting New TestCase -> Register a new user then complete sale  **
+2021-08-11 09:59:29,821 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 09:59:38,922 INFO c.a.p.RegistrationPage [main] userName : Brock81
+2021-08-11 09:59:38,922 INFO c.a.p.RegistrationPage [main] password : +HVR47<AAa1£
+2021-08-11 09:59:42,914 INFO c.a.p.RegistrationPage [main] Beats Studio 2 Over-Ear Matte Black Headphones
+2021-08-11 09:59:42,935 INFO c.a.p.RegistrationPage [main] Bose SoundLink Around-ear Wireless Headphones II
+2021-08-11 09:59:42,955 INFO c.a.p.RegistrationPage [main] HP H2310 In-ear Headset
+2021-08-11 09:59:42,972 INFO c.a.p.RegistrationPage [main] Logitech USB Headset H390
+2021-08-11 09:59:53,316 INFO c.a.s.AppTestBase [main] Failed scenario ----->> [@advantageRegression, @completeSale]
+2021-08-11 09:59:53,317 INFO c.a.s.AppTestBase [main] Browser failed on Chrome
+2021-08-11 09:59:53,317 INFO c.a.s.AppTestBase [main] Failed scenario ----->> FAILED
+2021-08-11 09:59:53,317 INFO c.a.s.AppTestBase [main] Browser failed on Chrome
+2021-08-11 10:05:22,161 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 10:05:22,166 INFO c.a.s.AppTestBase [main] ** Starting New TestCase -> Register a new user then complete sale  **
+2021-08-11 10:05:22,166 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 10:05:31,195 INFO c.a.p.RegistrationPage [main] userName : Lucretia16
+2021-08-11 10:05:31,195 INFO c.a.p.RegistrationPage [main] password : ZD(HFXXoAa1£
+2021-08-11 10:05:35,246 INFO c.a.p.RegistrationPage [main] Beats Studio 2 Over-Ear Matte Black Headphones
+2021-08-11 10:05:35,262 INFO c.a.p.RegistrationPage [main] Bose SoundLink Around-ear Wireless Headphones II
+2021-08-11 10:05:35,279 INFO c.a.p.RegistrationPage [main] HP H2310 In-ear Headset
+2021-08-11 10:05:35,296 INFO c.a.p.RegistrationPage [main] Logitech USB Headset H390
+2021-08-11 10:05:45,368 INFO c.a.s.AppTestBase [main] Failed scenario ----->> [@advantageRegression, @completeSale]
+2021-08-11 10:05:45,369 INFO c.a.s.AppTestBase [main] Browser failed on Chrome
+2021-08-11 10:05:45,369 INFO c.a.s.AppTestBase [main] Failed scenario ----->> FAILED
+2021-08-11 10:05:45,370 INFO c.a.s.AppTestBase [main] Browser failed on Chrome
+2021-08-11 10:05:58,020 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 10:05:58,024 INFO c.a.s.AppTestBase [main] ** Starting New TestCase -> Register a new user then complete sale  **
+2021-08-11 10:05:58,025 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 10:06:07,666 INFO c.a.p.RegistrationPage [main] userName : Chris30
+2021-08-11 10:06:07,667 INFO c.a.p.RegistrationPage [main] password : eC)(I-i)Aa1£
+2021-08-11 10:06:11,920 INFO c.a.p.RegistrationPage [main] Beats Studio 2 Over-Ear Matte Black Headphones
+2021-08-11 10:06:11,937 INFO c.a.p.RegistrationPage [main] Bose SoundLink Around-ear Wireless Headphones II
+2021-08-11 10:06:11,955 INFO c.a.p.RegistrationPage [main] HP H2310 In-ear Headset
+2021-08-11 10:06:11,977 INFO c.a.p.RegistrationPage [main] Logitech USB Headset H390
+2021-08-11 10:07:42,847 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 10:07:42,853 INFO c.a.s.AppTestBase [main] ** Starting New TestCase -> Register a new user then complete sale  **
+2021-08-11 10:07:42,853 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 10:07:52,270 INFO c.a.p.RegistrationPage [main] userName : Kali20
+2021-08-11 10:07:52,270 INFO c.a.p.RegistrationPage [main] password : 6HAM1%qAAa1£
+2021-08-11 10:07:56,506 INFO c.a.p.RegistrationPage [main] Beats Studio 2 Over-Ear Matte Black Headphones
+2021-08-11 10:07:56,523 INFO c.a.p.RegistrationPage [main] Bose SoundLink Around-ear Wireless Headphones II
+2021-08-11 10:07:56,541 INFO c.a.p.RegistrationPage [main] HP H2310 In-ear Headset
+2021-08-11 10:07:56,558 INFO c.a.p.RegistrationPage [main] Logitech USB Headset H390
+2021-08-11 10:10:56,294 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 10:10:56,298 INFO c.a.s.AppTestBase [main] ** Starting New TestCase -> Register a new user then complete sale  **
+2021-08-11 10:10:56,298 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 10:11:05,127 INFO c.a.p.RegistrationPage [main] userName : Cecille46
+2021-08-11 10:11:05,127 INFO c.a.p.RegistrationPage [main] password : y`^N%B^yAa1£
+2021-08-11 10:11:09,211 INFO c.a.p.RegistrationPage [main] Beats Studio 2 Over-Ear Matte Black Headphones
+2021-08-11 10:11:09,227 INFO c.a.p.RegistrationPage [main] Bose SoundLink Around-ear Wireless Headphones II
+2021-08-11 10:11:09,244 INFO c.a.p.RegistrationPage [main] HP H2310 In-ear Headset
+2021-08-11 10:11:09,260 INFO c.a.p.RegistrationPage [main] Logitech USB Headset H390
+2021-08-11 10:11:19,524 INFO c.a.s.AppTestBase [main] Failed scenario ----->> [@advantageRegression, @completeSale]
+2021-08-11 10:11:19,524 INFO c.a.s.AppTestBase [main] Browser failed on Chrome
+2021-08-11 10:11:19,524 INFO c.a.s.AppTestBase [main] Failed scenario ----->> FAILED
+2021-08-11 10:11:19,525 INFO c.a.s.AppTestBase [main] Browser failed on Chrome
+2021-08-11 10:12:00,462 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 10:12:00,466 INFO c.a.s.AppTestBase [main] ** Starting New TestCase -> Register a new user then complete sale  **
+2021-08-11 10:12:00,466 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 10:12:09,447 INFO c.a.p.RegistrationPage [main] userName : Rudy86
+2021-08-11 10:12:09,447 INFO c.a.p.RegistrationPage [main] password : k83G)lvxAa1£
+2021-08-11 10:12:13,431 INFO c.a.p.RegistrationPage [main] Beats Studio 2 Over-Ear Matte Black Headphones
+2021-08-11 10:12:13,447 INFO c.a.p.RegistrationPage [main] Bose SoundLink Around-ear Wireless Headphones II
+2021-08-11 10:12:13,463 INFO c.a.p.RegistrationPage [main] HP H2310 In-ear Headset
+2021-08-11 10:12:13,480 INFO c.a.p.RegistrationPage [main] Logitech USB Headset H390
+2021-08-11 10:13:15,393 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 10:13:15,396 INFO c.a.s.AppTestBase [main] ** Starting New TestCase -> Register a new user then complete sale  **
+2021-08-11 10:13:15,397 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 10:13:24,527 INFO c.a.p.RegistrationPage [main] userName : Boyd94
+2021-08-11 10:13:24,528 INFO c.a.p.RegistrationPage [main] password : uo57xML%Aa1£
+2021-08-11 10:13:28,567 INFO c.a.p.RegistrationPage [main] Beats Studio 2 Over-Ear Matte Black Headphones
+2021-08-11 10:13:28,584 INFO c.a.p.RegistrationPage [main] Bose SoundLink Around-ear Wireless Headphones II
+2021-08-11 10:13:28,601 INFO c.a.p.RegistrationPage [main] HP H2310 In-ear Headset
+2021-08-11 10:13:28,618 INFO c.a.p.RegistrationPage [main] Logitech USB Headset H390
+2021-08-11 10:18:10,645 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 10:18:10,649 INFO c.a.s.AppTestBase [main] ** Starting New TestCase -> Register a new user then complete sale  **
+2021-08-11 10:18:10,649 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 10:18:20,601 INFO c.a.p.RegistrationPage [main] userName : Tiffanie56
+2021-08-11 10:18:20,602 INFO c.a.p.RegistrationPage [main] password : t51qc<?2Aa1£
+2021-08-11 10:18:24,725 INFO c.a.p.RegistrationPage [main] Beats Studio 2 Over-Ear Matte Black Headphones
+2021-08-11 10:18:24,742 INFO c.a.p.RegistrationPage [main] Bose SoundLink Around-ear Wireless Headphones II
+2021-08-11 10:18:24,761 INFO c.a.p.RegistrationPage [main] HP H2310 In-ear Headset
+2021-08-11 10:18:24,777 INFO c.a.p.RegistrationPage [main] Logitech USB Headset H390
+2021-08-11 10:19:16,595 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 10:19:16,599 INFO c.a.s.AppTestBase [main] ** Starting New TestCase -> Register a new user then complete sale  **
+2021-08-11 10:19:16,599 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 10:19:25,978 INFO c.a.p.RegistrationPage [main] userName : Madalene49
+2021-08-11 10:19:25,978 INFO c.a.p.RegistrationPage [main] password : x:03"d;aAa1£
+2021-08-11 10:19:28,702 INFO c.a.s.AppTestBase [main] Failed scenario ----->> [@advantageRegression, @completeSale]
+2021-08-11 10:19:28,702 INFO c.a.s.AppTestBase [main] Browser failed on Chrome
+2021-08-11 10:19:28,703 INFO c.a.s.AppTestBase [main] Failed scenario ----->> FAILED
+2021-08-11 10:19:28,703 INFO c.a.s.AppTestBase [main] Browser failed on Chrome
+2021-08-11 10:19:41,260 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 10:19:41,265 INFO c.a.s.AppTestBase [main] ** Starting New TestCase -> Register a new user then complete sale  **
+2021-08-11 10:19:41,265 INFO c.a.s.AppTestBase [main] ***********************************************************
+2021-08-11 10:19:50,208 INFO c.a.p.RegistrationPage [main] userName : Donovan56
+2021-08-11 10:19:50,208 INFO c.a.p.RegistrationPage [main] password : A@ks-#_CAa1£
+2021-08-11 10:19:54,284 INFO c.a.p.RegistrationPage [main] Beats Studio 2 Over-Ear Matte Black Headphones
+2021-08-11 10:19:54,300 INFO c.a.p.RegistrationPage [main] Bose SoundLink Around-ear Wireless Headphones II
+2021-08-11 10:19:54,319 INFO c.a.p.RegistrationPage [main] HP H2310 In-ear Headset
+2021-08-11 10:19:54,336 INFO c.a.p.RegistrationPage [main] Logitech USB Headset H390

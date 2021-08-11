@@ -1,0 +1,141 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "start_timestamp": "2021-08-11T09:19:40.851Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2190912900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.advantage.steps.AppTestBase.startApp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Register a new user then complete sale",
+        "description": "",
+        "id": "customer-journey-scenarios;register-a-new-user-then-complete-sale",
+        "after": [
+          {
+            "result": {
+              "duration": 112999600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.advantage.steps.AppTestBase.closeApp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 717141300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I open advantage shopping site",
+            "match": {
+              "location": "com.advantage.steps.advantage.HomePageSteps.iOpenAdvantageShoppingSite()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2846922900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify home page",
+            "match": {
+              "location": "com.advantage.steps.advantage.HomePageSteps.iVerifyHomePage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2146313000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I navigate to create account page",
+            "match": {
+              "location": "com.advantage.steps.advantage.RegistrationSteps.iNavigateToCreateAccountPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4175046300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I register new user",
+            "match": {
+              "location": "com.advantage.steps.advantage.RegistrationSteps.iRegisterNewUser()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3493912600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I add \"headPhones\" to cart",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"headPhones\"",
+                  "offset": 6
+                }
+              ],
+              "location": "com.advantage.steps.advantage.OrderSteps.iAddToCart(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4466901600,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I complete purchase",
+            "match": {
+              "location": "com.advantage.steps.advantage.OrderSteps.iCompletePurchase()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@advantageRegression"
+          },
+          {
+            "name": "@completeSale"
+          }
+        ]
+      }
+    ],
+    "name": "Customer journey scenarios",
+    "description": "",
+    "id": "customer-journey-scenarios",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/advantage/shopping.feature",
+    "tags": [
+      {
+        "name": "@advantageRegression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
